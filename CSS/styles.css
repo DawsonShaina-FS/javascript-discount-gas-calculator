@@ -5,3 +5,15 @@ body {
 h1 {
     color: white;
 }
+
+
+
+.firstclass {
+    color: white;
+    background-color: green;
+}
+
+.secondclass {
+    color: black;
+    background-color: yellow;
+}
